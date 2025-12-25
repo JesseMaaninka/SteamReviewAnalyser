@@ -271,4 +271,4 @@ if st.button("Fetch and analyze reviews"):
             use_container_width=True
         )
 
-    st.caption("Steam Review Analyzer – English-only version")
+    st.caption("Steam Review Analyzer")
